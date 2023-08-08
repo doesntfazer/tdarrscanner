@@ -1,7 +1,9 @@
 # Tdarr Scanner
 
 An autoscanner similar to [Plex Autoscan.](https://github.com/l3uddz/plex_autoscan) But for [Tdarr](https://home.tdarr.io/) 
-	
+
+This is the source code that was used to make the [dockerized version of this](https://hub.docker.com/r/doesntfazer/tdarrscanner). If you would like to make any modifications to this, it can be done here.
+ 
 ## Why does Tdarr scanner exist?
 I made this little app because I was sick of Tdarr's automatic scan pulling files before they are finished transferring to my NAS; It will cause corrupted files. There's a couple ways around this. 
 
